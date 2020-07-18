@@ -1,0 +1,48 @@
+h1{
+    color: orange;
+    margin-left: 40%;
+    font-size: 70px;
+    font-family: 'Teko', sans-serif;
+    margin-top: 30px;
+}
+.plane-logo{
+height: 40px;
+width: 40px;
+border-style: none;
+border-width: 0px;
+border-color: none;
+}
+body{
+    background-image: url(https://unsplash.com/photos/5J1bHRX1fNw/download?force=true);
+}
+img {
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    height: 300px;
+}
+.img1{
+    width: 415px;
+    margin-left: 8.99%;
+}
+.img2{
+    width: 450px;
+    margin-left: 2.1%;
+}
+.img3{
+    width: 570px;
+    margin-left: 2.1%;
+}
+.img4{
+    width: 450px;
+    margin-left: 22.5%;
+    margin-top: 120px;
+}
+.img5{
+    width: 530px;
+    margin-left: 2.1%;
+}
+img:hover {
+    transition: 10s;
+    transform: scale(1.5);
+}
